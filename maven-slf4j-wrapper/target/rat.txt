@@ -1,0 +1,31 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-05-10T23:13:56+05:30
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 5
+
+Apache Licensed: 5
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    C:/Users/Ruchika/Desktop/Sonarqube/maven/maven-slf4j-wrapper/pom.xml
+  AL    C:/Users/Ruchika/Desktop/Sonarqube/maven/maven-slf4j-wrapper/src/main/java/org/apache/maven/logwrapper/LogLevelRecorder.java
+  AL    C:/Users/Ruchika/Desktop/Sonarqube/maven/maven-slf4j-wrapper/src/main/java/org/apache/maven/logwrapper/MavenSlf4jWrapperFactory.java
+  AL    C:/Users/Ruchika/Desktop/Sonarqube/maven/maven-slf4j-wrapper/src/site/site.xml
+  AL    C:/Users/Ruchika/Desktop/Sonarqube/maven/maven-slf4j-wrapper/src/test/java/org/apache/maven/logwrapper/LogLevelRecorderTest.java
+ 
+*****************************************************
